@@ -8,7 +8,7 @@ body{
     position: relative;
     animation-name: myanimae;
     animation-duration: 4s;
-    animation-iteration-count: 1;
+    animation-iteration-count: 10;
     animation-delay: 1s;
     animation-direction: alternate;
     animation-fill-mode: forwards;
